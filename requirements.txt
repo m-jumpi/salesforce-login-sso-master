@@ -1,0 +1,17 @@
+certifi
+cffi
+chardet
+cryptography
+functional
+idna
+lxml
+pycparser
+pyOpenSSL
+requests
+requests-kerberos
+six
+urllib3
+#winkerberos
+
+#for example only
+simple-salesforce
